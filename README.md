@@ -2,9 +2,10 @@
  Calculadora-Simples:
 
 Esse projeto simula uma calculadora com operações simples. 
-Temos então, somente operações basicas de soma, subtração, multiplicação e divisão.
 
-Todas as digitações nesse projeto feitas pelo usuário são numéricas, isso inclui até a escolha do operador matemático.
+Temos então, somente operações básicas de soma, subtração, multiplicação e divisão.
+
+Todas as digitações nesse projeto feitas pelo usuário são numéricas, isso inclui até a escolha do operador matemático para a conta.
 
 Descrevendo o Projeto:
 
