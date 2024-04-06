@@ -20,3 +20,11 @@ Descrevendo o Projeto:
  • Foi aplicado també o conceito de Placeholders já que não se sabe qual será o input escolhido pelo usuário.
  
  • Por fim, objeserve que o else se encarrega de mostrar para o usuário tem a permissão de escolher números de 1 a 4 somente. Sendo diferente disso, uma mensagem de alerta é acionada.
+
+#
+Recursos usados no código:
+
+- Função input() para coleta de dados do Usuário
+- Operações Condicionais if / elif / else;
+- Placeholders para marcação de onde o valor digitado no input será introduzido no bloco condicional: %a , %s , %r 
+          
