@@ -24,7 +24,7 @@ Descrevendo o Projeto:
 #
 Recursos usados no código:
 
-- Função input() para coleta de dados do Usuário
+- Função input() para coleta de dados digitado pelo usuário
 - Operações Condicionais if / elif / else;
 - Placeholders para marcação de onde o valor digitado no input será introduzido no bloco condicional: %a , %s , %r 
           
